@@ -1,0 +1,78 @@
+{
+  "redirect" : {
+
+"JSON_POPUP_WAIT" : "Please wait for loading data ...",
+
+"TOAST_NOTIF" : false,
+
+"MODE_NO_ADS" : true,
+"MODE_BACKUP_ADS" : true,
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+
+//     * mode pengaturan iklan
+//     * Mode ADMOB       Admob backup Unity Backup Startapp
+//     * Mode FAN         FAN backup Unity Backup Startapp
+//     * Mode APPODEAL    Appodeal backup Unity Backup Startapp
+//     * Mode UNITY       Unity backup Startapp
+//     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
+//     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
+//     * Untuk Native akan terganti menjadi banner jika tanpa id 
+
+
+"PENGATURAN_IKLAN_BANNER" : "APPLOVIN",
+"PENGATURAN_IKLAN_INTER" : "APPLOVIN",
+"PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
+
+"INTERS_COUNT_WEB" : 3,
+
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111x",
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712x",
+
+"HPK_ALIENDROID" : "kuota data 30gb",
+"HPK_ADMOB1" : "Kuota Data",
+"HPK_ADMOB2" : "bank jenius",
+"HPK_ADMOB3" : "bank jago",
+"HPK_ADMOB4" : "telkomsel",
+"HPK_ADMOB5" : "donasi",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "Interstitial",
+"UNITY_GAME_ID" : "4082115x",
+"UNITY_TEST_MODE" : false,
+
+"STARAPPID" : "201365479x",
+
+"APPLOVIN_BANNER_ID" : "76bba002ed4b8a07",
+"APPLOVIN_INTERSTITIAL_ID" : "08c742f05553e164",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"BUTTON_RATING" : "Rate App",
+"BUTTON_SHARE" : "Share",
+"BUTTON_START" : "Start",
+
+"EXIT_POPUP_DIALOG" : "Please support us by giving 5 stars rating, Thank You...:)",
+"RATE_BUTTON" : "Rating 5 Stars",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "Awesome App, Download Now...",
+"MORE_BUTTON" : "Share This App",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
+
+"REDIRECT_TRAFFIC" : false,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
+
+
+  }
+}
+
+
